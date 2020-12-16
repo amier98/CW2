@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		303F2A12247FFF850044CD4E /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303F2A11247FFF850044CD4E /* CustomTableViewCell.swift */; };
+		306692F52472D0AC00BABCBD /* EditTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306692F42472D0AC00BABCBD /* EditTaskViewController.swift */; };
+		3068B766246C4DA4005E7427 /* EditAssignmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3068B765246C4DA4005E7427 /* EditAssignmentViewController.swift */; };
+		306B47402454726700062504 /* AddAssesmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306B473F2454726700062504 /* AddAssesmentViewController.swift */; };
+		309D9232246F220D00787D71 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309D9231246F220D00787D71 /* AddTaskViewController.swift */; };
 		309E438C2450E1CA003AA852 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309E438B2450E1CA003AA852 /* AppDelegate.swift */; };
 		309E438F2450E1CA003AA852 /* CW2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 309E438D2450E1CA003AA852 /* CW2.xcdatamodeld */; };
 		309E43912450E1CA003AA852 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309E43902450E1CA003AA852 /* SceneDelegate.swift */; };
@@ -15,9 +20,18 @@
 		309E43982450E1CA003AA852 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 309E43962450E1CA003AA852 /* Main.storyboard */; };
 		309E439A2450E1CD003AA852 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 309E43992450E1CD003AA852 /* Assets.xcassets */; };
 		309E439D2450E1CD003AA852 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 309E439B2450E1CD003AA852 /* LaunchScreen.storyboard */; };
+		30A71AF6246A95EB0059DEC5 /* AssesmentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A71AF5246A95EB0059DEC5 /* AssesmentDetailViewController.swift */; };
+		30AA96DF2482949800DB2C41 /* CustomAssesmentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AA96DE2482949800DB2C41 /* CustomAssesmentTableViewCell.swift */; };
+		30EAFF5924795A56003BF613 /* LabelStrings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30EAFF5824795A56003BF613 /* LabelStrings.plist */; };
+		30EAFF5B247AB223003BF613 /* cuustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EAFF5A247AB223003BF613 /* cuustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		303F2A11247FFF850044CD4E /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		306692F42472D0AC00BABCBD /* EditTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTaskViewController.swift; sourceTree = "<group>"; };
+		3068B765246C4DA4005E7427 /* EditAssignmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAssignmentViewController.swift; sourceTree = "<group>"; };
+		306B473F2454726700062504 /* AddAssesmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAssesmentViewController.swift; sourceTree = "<group>"; };
+		309D9231246F220D00787D71 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 		309E43882450E1CA003AA852 /* CW2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CW2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		309E438B2450E1CA003AA852 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		309E438E2450E1CA003AA852 /* CW2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CW2.xcdatamodel; sourceTree = "<group>"; };
@@ -28,6 +42,10 @@
 		309E43992450E1CD003AA852 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		309E439C2450E1CD003AA852 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		309E439E2450E1CD003AA852 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30A71AF5246A95EB0059DEC5 /* AssesmentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssesmentDetailViewController.swift; sourceTree = "<group>"; };
+		30AA96DE2482949800DB2C41 /* CustomAssesmentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAssesmentTableViewCell.swift; sourceTree = "<group>"; };
+		30EAFF5824795A56003BF613 /* LabelStrings.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = LabelStrings.plist; sourceTree = "<group>"; };
+		30EAFF5A247AB223003BF613 /* cuustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cuustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,7 @@
 		309E438A2450E1CA003AA852 /* CW2 */ = {
 			isa = PBXGroup;
 			children = (
+				30EAFF5824795A56003BF613 /* LabelStrings.plist */,
 				309E438B2450E1CA003AA852 /* AppDelegate.swift */,
 				309E43902450E1CA003AA852 /* SceneDelegate.swift */,
 				309E43922450E1CA003AA852 /* MasterViewController.swift */,
@@ -69,6 +88,14 @@
 				309E439B2450E1CD003AA852 /* LaunchScreen.storyboard */,
 				309E439E2450E1CD003AA852 /* Info.plist */,
 				309E438D2450E1CA003AA852 /* CW2.xcdatamodeld */,
+				306B473F2454726700062504 /* AddAssesmentViewController.swift */,
+				30A71AF5246A95EB0059DEC5 /* AssesmentDetailViewController.swift */,
+				3068B765246C4DA4005E7427 /* EditAssignmentViewController.swift */,
+				309D9231246F220D00787D71 /* AddTaskViewController.swift */,
+				306692F42472D0AC00BABCBD /* EditTaskViewController.swift */,
+				30EAFF5A247AB223003BF613 /* cuustomView.swift */,
+				303F2A11247FFF850044CD4E /* CustomTableViewCell.swift */,
+				30AA96DE2482949800DB2C41 /* CustomAssesmentTableViewCell.swift */,
 			);
 			path = CW2;
 			sourceTree = "<group>";
@@ -133,6 +160,7 @@
 			files = (
 				309E439D2450E1CD003AA852 /* LaunchScreen.storyboard in Resources */,
 				309E439A2450E1CD003AA852 /* Assets.xcassets in Resources */,
+				30EAFF5924795A56003BF613 /* LabelStrings.plist in Resources */,
 				309E43982450E1CA003AA852 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,11 +172,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30EAFF5B247AB223003BF613 /* cuustomView.swift in Sources */,
 				309E43932450E1CA003AA852 /* MasterViewController.swift in Sources */,
+				30A71AF6246A95EB0059DEC5 /* AssesmentDetailViewController.swift in Sources */,
+				30AA96DF2482949800DB2C41 /* CustomAssesmentTableViewCell.swift in Sources */,
 				309E438F2450E1CA003AA852 /* CW2.xcdatamodeld in Sources */,
+				306B47402454726700062504 /* AddAssesmentViewController.swift in Sources */,
 				309E43952450E1CA003AA852 /* DetailViewController.swift in Sources */,
 				309E438C2450E1CA003AA852 /* AppDelegate.swift in Sources */,
 				309E43912450E1CA003AA852 /* SceneDelegate.swift in Sources */,
+				306692F52472D0AC00BABCBD /* EditTaskViewController.swift in Sources */,
+				309D9232246F220D00787D71 /* AddTaskViewController.swift in Sources */,
+				3068B766246C4DA4005E7427 /* EditAssignmentViewController.swift in Sources */,
+				303F2A12247FFF850044CD4E /* CustomTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,7 +337,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = cw2.CW2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -318,7 +354,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = cw2.CW2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};

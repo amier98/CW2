@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4CFC9C16-12EC-40BB-9C10-02E103D78E14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0B065D1-71D4-42CF-8A85-AEAA252D2324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CW2/MasterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B0B065D1-71D4-42CF-8A85-AEAA252D2324 - c486b0f87c154bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(style: __C.UITableViewStyle) -&gt; CW2.MasterViewController"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "782">
+               </Location>
+               <Location
+                  uuid = "B0B065D1-71D4-42CF-8A85-AEAA252D2324 - 454a24eb6022bc35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CW2.MasterViewController"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "779">
+               </Location>
+               <Location
+                  uuid = "B0B065D1-71D4-42CF-8A85-AEAA252D2324 - 2f878b23c61e0879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CW2.MasterViewController&gt;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CW2/MasterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - b7c35f9d379447f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController._fetchedResultsController.getter : Swift.Optional&lt;__C.NSFetchedResultsController&lt;CW2.Assesment&gt;&gt;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - cc9c9f9593aca473"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController._fetchedResultsController.setter : Swift.Optional&lt;__C.NSFetchedResultsController&lt;CW2.Assesment&gt;&gt;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - 8de12e5c39f8ec42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController._fetchedResultsController.modify : Swift.Optional&lt;__C.NSFetchedResultsController&lt;CW2.Assesment&gt;&gt;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - da59603861df15d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController._fetchedResultsController.modify : Swift.Optional&lt;__C.NSFetchedResultsController&lt;CW2.Assesment&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - c486b0f87c154bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(style: __C.UITableViewStyle) -&gt; CW2.MasterViewController"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "782">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - 454a24eb6022bc35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CW2.MasterViewController"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "779">
+               </Location>
+               <Location
+                  uuid = "211B956F-7466-4CB8-AC4E-4362BE9DEE94 - 2f878b23c61e0879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CW2.MasterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CW2.MasterViewController&gt;"
+                  moduleName = "CW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amierali/Projects/CW2/CW2/MasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
